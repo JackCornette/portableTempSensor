@@ -1,7 +1,7 @@
 # Portable, High-Range Temperature Sensor
 A small, portable high-range temperature sensor. I made it mostly just to try making something portable/3D printed, but it's also somewhat functional for testing to see if a stove/handle is hot. I didn't know PCB design at the time so it was built with protoboards. The battery % is tracked using a voltage divider and analog reading on the battery voltage. A % is found by assuming Lipo voltage range for 3.2v-4.2v
 
-[Temperature Sensor Photo](./tempsensor.png)
+![Temperature Sensor Photo](./tempsensor.png)
 
 ## Features
 - -20 to 120 Celsius with a resolution of 0.02 C
